@@ -11,7 +11,7 @@ export class AppComponent {
 	giftlist = [
 		{
 			img: "assets/emerson-vieira-3wzps8KbdCQ-unsplash.jpg",
-			description: "Conjunto de utensílios de cozinha coloridos: Para transformar sua cozinha em um arco-íris culinário - afinal, cozinhar fica muito mais divertido quando você tem uma colher de pau rosa choque!",
+			description: "Conjunto de utensílios de cozinha de macho editado de novo: Para transformar sua cozinha em um arco-íris culinário - afinal, cozinhar fica muito mais divertido quando você tem uma colher de pau rosa choque!",
 			price: "R$ 46,37"
 		},
 		{
