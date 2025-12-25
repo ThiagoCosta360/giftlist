@@ -17,13 +17,13 @@ export class AppComponent {
 		},
 		{
       img: "assets/cortina.jpg",
-			description: "Cortina da sala pra não pagar peitinho pros vizinhos",
+			description: "Cortina da sala pra dormir até mais tarde",
 			price: "R$ 128,00",
       pixurl: "https://nubank.com.br/cobrar/q8h3/660212c2-c2dd-46b2-bbf7-c1aede45298a"
 		},
 		{
       img: "assets/ferramentas.jpg",
-			description: "Kit de Ferramentas pra não depender do marido de aluguel",
+			description: "Kit de Ferramentas pra não depender de ninguém",
 			price: "R$ 153,00",
       pixurl: "https://nubank.com.br/cobrar/q8h3/66021304-58e5-431b-8ff9-47259dac34f2"
 		},
@@ -47,7 +47,7 @@ export class AppComponent {
     },
     {
       img: "assets/relogio.jpg",
-      description: "Relógio de parede pra não perder a hora da daily",
+      description: "Relógio de parede pra não perder a hora de ir trabalhar",
       price: "R$ 46,00",
       pixurl: "https://nubank.com.br/cobrar/q8h3/6602141c-225f-46c5-9005-6c982ec9612a"
     },
@@ -59,7 +59,7 @@ export class AppComponent {
     },
     {
       img: "assets/retrato.jpg",
-      description: "Porta retratos pra não esquecer a familia sifex",
+      description: "Porta retratos pra não esquecer a familia",
       price: "R$ 80,00",
       pixurl: "https://nubank.com.br/cobrar/q8h3/66021491-3997-40ce-816e-2d76d717d4b5"
     },
@@ -95,7 +95,7 @@ export class AppComponent {
     },
     {
       img: "assets/panelas.jpg",
-			description: "Jogo de Panelas Tramontina (Vale 01 Jantar Romântico no Apartamento)",
+			description: "Jogo de Panelas Tramontina (Vale 01 Jantar no Apartamento)",
 			price: "R$ 515,00",
       pixurl: "https://nubank.com.br/cobrar/q8h3/660215b4-1eaf-498f-ba74-e9a06e26c694"
 		},
